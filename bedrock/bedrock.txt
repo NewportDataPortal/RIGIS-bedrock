@@ -1,0 +1,300 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: O. Don Hermes
+      Originator: Peter L. Gromet
+      Originator: Daniel P. Murray
+      Originator: Nasir A. Hamidzada
+      Publication_Date: 19940101
+      Title: Bedrock Geology of Rhode Island; s44gbr95
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: University of Rhode Island, Department of Geosciences, Kingston, RI 02881
+        Publisher: Geological Survey of Rhode Island
+      Other_Citation_Details: Suggested bibliographic reference: RIGIS, 1994. Bedrock Geology of Rhode Island; s44gbr95. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 30 September 2014).
+      Online_Linkage: http://www.rigis.org
+  Description:
+    Abstract: Much new geologic data has been accumulated since A. Quinn published the Rhode Island Geologic Map in 1971. This dataset incorporates recent data.  It is presented in digital format at a scale of 1:100,000.
+    Purpose: The 1994 published Geologic Map of Rhode Island was made from the digital data contained here. The compiled digital database provides users with complete GIS capabilities. The coding of the topology is designed to permit easy use and manipulation of geologic information in the database by the user.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1989
+        Ending_Date: 1994
+    Currentness_Reference: Publication date,  1994
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -71.901525
+      East_Bounding_Coordinate: -71.106382
+      North_Bounding_Coordinate: 42.029904
+      South_Bounding_Coordinate: 41.145612
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: geoscientificInformation
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Bedrock
+      Theme_Keyword: Geologic
+      Theme_Keyword: Geology
+      Theme_Keyword: Bedrock Geologic Map
+      Theme_Keyword: Map
+      Theme_Keyword: Rock Ages
+      Theme_Keyword: Radiometric Dates
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Narragansett Bay
+      Place_Keyword: Rhode Island
+      Place_Keyword: New England
+      Place_Keyword: Northeast
+      Place_Keyword: Applachian
+      Place_Keyword: East Coast
+  Access_Constraints: None.
+  Use_Constraints:
+    Data for this map was compiled at a scale of 1:100,000 for the sole purpose of publishing a 1:100,000 scale bedrock geologic map. Analyses and interpretation for regulatory purposes should not be done at this expanded scale . Compilers and  originators of this map are not liable for use outside of its intended purpose.
+    This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+    Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Nasir A. Hamidzada
+        Contact_Organization: University of Rhode Island,  Department of Geosciences
+      Contact_Position: Research Associate
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Department of Geosciences
+        Address: 337 Woodward Hall, 9 East Alumni Avenue
+        City: Kingston
+        State_or_Province: Rhode Island
+        Postal_Code: 02881-2019
+        Country: USA
+      Contact_Voice_Telephone: (401)-874-4071
+      Contact_Facsimile_Telephone: (401)-874-2190
+      Contact_Electronic_Mail_Address: nhamidzada@uri.edu
+      Hours_of_Service: 8:30 AM - 4:00 PM
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Created attributes are consistent in both thematic database and the spatial coverage.
+  Logical_Consistency_Report: No specific test were performed. However data are thought to be logically consistent because attribute information for the same spatial entities were read from the same source file.
+  Completeness_Report: Geologic boundaries were digitized from stable Mylar at a map scale of 1:100,000. Shoreline, lakes and pond boundaries are from United States Geological Survey DLG files that were digitized at a scale of 1:100,000.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Most geologic boundaries originated from 1:24,000 and 1:31,680 quadrangle geologic maps. After generalizing these boundaries to a scale of 1:100,000 , they were scribed on a stable Mylar base. These boundaries were then digitized in Arc/Info using a Calcomp9100 digitizer.
+      Quantitative_Horizontal_Positional_Accuracy_Assessment:
+        Horizontal_Positional_Accuracy_Value: 100 ft
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: NA
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: O. Don Hermes
+          Originator: Peter L. Gromet
+          Originator: Daniel P. Murray
+          Originator: Nasir A. Hamidzada
+          Publication_Date: 1994
+          Title: Bedrock geologic Map of Rhode Island
+          Edition: One
+          Geospatial_Data_Presentation_Form: map
+          Series_Information:
+            Series_Name: Rhode Island Map Series
+            Issue_Identification: No. 1
+          Publication_Information:
+            Publication_Place: University of Rhode Island, Department of Geosciences, Kingston, RI 02881
+            Publisher: Rhode Island Geological Survey
+      Source_Scale_Denominator: 100000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: publication date
+      Source_Contribution: Vector data represent geological units and boundaries
+    Process_Step:
+      Process_Description: Most geologic boundaries originated from 1:24,000 and 1:31,000 quadrangle geologic maps. After generalizing these boundaries for the scale of 1:100,000 , they were scribed on a stable Mylar base. These boundaries were then digitized in Arc/Info using a Calcomp9100 digitizer with RMS =< 005. Shoreline, lakes and pond boundaries were copied from United Geological Survey 1:100,000 scale DLG files. Both geologic boundaries and units attributes are coded. The coding of the topology is designed to allow easy manipulation of geological information in the database by users.
+      Process_Date: 1989-1994
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Nasir A. Hamidzada
+            Contact_Organization: University of Rhode Island, Department of Geosciences
+          Contact_Position: Research Associate
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: University of Rhode Island
+            Address: Department of Geosciences
+            Address: 337 Woodward Hall, 9 East Alumni Ave
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+            Country: USA
+          Contact_Voice_Telephone: (401) 874-4071
+          Contact_Facsimile_Telephone: (401) 874-2190
+          Contact_Electronic_Mail_Address: hamidzada@uri.edu
+          Hours_of_Service: 8:30 AM - 4:00 PM
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 1486
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Label point
+      Point_and_Vector_Object_Count: 1486
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 1486
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 58
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Label point
+      Point_and_Vector_Object_Count: 882
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 3800
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999994
+            Longitude_of_Central_Meridian: -71.500000
+            Latitude_of_Projection_Origin: 41.083333
+            False_Easting: 328083.333333
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000512
+          Ordinate_Resolution: 0.000512
+        Planar_Distance_Units: survey feet
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Resolution: 0.000010
+      Altitude_Encoding_Method: Explicit elevation coordinate included with horizontal coordinates
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Bedrock Geology
+      Entity_Type_Definition: Geologic contact attributes
+    Attribute:
+      Attribute_Label: OBJECTID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: TERRANE
+      Attribute_Definition: type of terrane
+      Attribute_Definition_Source: Hermes et al.
+    Attribute:
+      Attribute_Label: SUBTERRANE
+      Attribute_Definition: type of subterrane
+      Attribute_Definition_Source: Hermes et al.
+    Attribute:
+      Attribute_Label: GEOGRAPHIC
+      Attribute_Definition: Subunit of the Esmond-Dedham subterrane area
+      Attribute_Definition_Source: Hermes et al.
+    Attribute:
+      Attribute_Label: GROUP_SUIT
+      Attribute_Definition: Type of Geologic Contact
+      Attribute_Definition_Source: Hermes et al.
+    Attribute:
+      Attribute_Label: ROCK_TYPE
+      Attribute_Definition: Rock Suite/Group name
+      Attribute_Definition_Source: Hermes et al.
+    Attribute:
+      Attribute_Label: AGE
+      Attribute_Definition: Age of the rock unit
+      Attribute_Definition_Source: NA
+    Attribute:
+      Attribute_Label: UNIT
+      Attribute_Definition: Rock Unit name
+      Attribute_Definition_Source: NA
+    Attribute:
+      Attribute_Label: UNIT_LABEL
+      Attribute_Definition: Rock unit abbreviated label
+      Attribute_Definition_Source: NA
+    Attribute:
+      Attribute_Label: GlobalID
+    Attribute:
+      Attribute_Label: SHADE_NO
+      Attribute_Definition: Unique shadeset symbol number
+      Attribute_Definition_Source: unknown
+    Attribute:
+      Attribute_Label: Shape.area
+    Attribute:
+      Attribute_Label: Shape.len
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      Extensive definitions of these attributes are available from the following:
+      Hermes, O.D., L.P. Gromet, and D.P. Murray, 1994.  Bedrock Geologic Map of Rhode Island.  Office of the State Geologist, Department of Geology, University of Rhode Island, Kingston, Rhode Island.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Erica Tefft
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-5054
+      Contact_Electronic_Mail_Address: erica@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.rigis.org
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.
+Metadata_Reference_Information:
+  Metadata_Date: 20070628
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Nasir A. Hamidzada
+        Contact_Organization: University of Rhode Island, Department of Geosciences
+      Contact_Position: Research Associate
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: University of Rhode Island
+        Address: Department of Geosciences
+        Address: 337 Woodward Hall, 9 Alumni Avenue
+        City: Kingston
+        State_or_Province: Rhode Island
+        Postal_Code: 02881-2019
+        Country: USA
+      Contact_Voice_Telephone: (401)874-4071
+      Contact_Facsimile_Telephone: (401)874-2190
+      Contact_Electronic_Mail_Address: hamidzada@uri.edu
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
